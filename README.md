@@ -1,10 +1,10 @@
-## Here's what you should know 🧋
+## Here's what you should know 🐻
 
 Well, hi there! I'm Dhiya, a 2nd-year Biotechnology Engineering student with a growing interest in the computational side of biology. I'm particularly curious about bioinformatics, genomics, and systems biology, and how programming can help us explore biological questions.
 
-I enjoy stepping outside my academic domain, too. From exploring unfamiliar topics to participating in hackathons, I like learning about different fields, collaborating with others, and seeing where new ideas lead.
+I enjoy stepping outside my academic domain too, from exploring unfamiliar topics to participating in hackathons, I like learning about different fields, collaborating with others, and seeing where new ideas lead.
 
-## Things I find interesting 🐻
+## Things I find interesting 🧋
 
 - **Bioinformatics & genomics** - exploring how computational tools can help us analyse biological data.
 - **Programming & software development** - building projects and turning ideas into something practical.
@@ -17,3 +17,5 @@ I enjoy stepping outside my academic domain, too. From exploring unfamiliar topi
 I'm experimenting with Python and building small projects inspired by biological concepts. I'd like to develop my skills in programming and data analysis while discovering practical applications in biotechnology.
 
 This profile is a space to share projects, document what I learn, and follow my curiosity as it takes me in new directions.
+
+<img width="500" height="500" alt="8099d977782070ffde67aa6f570225a4" src="https://github.com/user-attachments/assets/db44b660-b498-489d-ba9f-18d938ffa367" />
