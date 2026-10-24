@@ -1,16 +1,19 @@
-## Hi there 👋
+## Here's what you should know 🧋
 
-<!--
-**dhiyabinoy08/dhiyabinoy08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Well, hi there! I'm Dhiya, a 2nd-year Biotechnology Engineering student with a growing interest in the computational side of biology. I'm particularly curious about bioinformatics, genomics, and systems biology, and how programming can help us explore biological questions.
 
-Here are some ideas to get you started:
+I enjoy stepping outside my academic domain, too. From exploring unfamiliar topics to participating in hackathons, I like learning about different fields, collaborating with others, and seeing where new ideas lead.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Things I find interesting 🐻
+
+- **Bioinformatics & genomics** - exploring how computational tools can help us analyse biological data.
+- **Programming & software development** - building projects and turning ideas into something practical.
+- **UI/UX design** - how digital products look, feel, and work for the people using them.
+- **Cybersecurity** - learning about digital security, vulnerabilities, and how systems can be protected.
+- **Hackathons & interdisciplinary projects** - opportunities to experiment, collaborate, and venture beyond biotechnology.
+
+## What I'm exploring 🌼
+
+I'm experimenting with Python and building small projects inspired by biological concepts. I'd like to develop my skills in programming and data analysis while discovering practical applications in biotechnology.
+
+This profile is a space to share projects, document what I learn, and follow my curiosity as it takes me in new directions.
