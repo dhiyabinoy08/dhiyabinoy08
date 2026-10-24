@@ -18,4 +18,10 @@ I'm experimenting with Python and building small projects inspired by biological
 
 This profile is a space to share projects, document what I learn, and follow my curiosity as it takes me in new directions.
 
-<img width="500" height="500" alt="8099d977782070ffde67aa6f570225a4" src="https://github.com/user-attachments/assets/db44b660-b498-489d-ba9f-18d938ffa367" />
+<p align="center">
+  <img
+    src="https://github.com/user-attachments/assets/db44b660-b498-489d-ba9f-18d938ffa367"
+    width="150"
+    alt="Cute animated decoration"
+  />
+</p>
