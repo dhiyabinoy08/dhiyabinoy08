@@ -21,7 +21,7 @@ This profile is a space to share projects, document what I learn, and follow my 
 <p align="center">
   <img
     src="https://github.com/user-attachments/assets/db44b660-b498-489d-ba9f-18d938ffa367"
-    width="150"
+    width="300"
     alt="Cute animated decoration"
   />
 </p>
